@@ -3316,8 +3316,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				height: 2.75em;
-				line-height: 2.75em;
+				height: 3.6em;
+				line-height: 3.25em;
 			}
 
 				#header .logo {
