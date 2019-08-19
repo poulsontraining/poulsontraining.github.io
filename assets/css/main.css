@@ -3353,7 +3353,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header .logo span {
-				display: none;
+				padding: 0.1em;
 			}
 
 			#header nav a[href="#menu"] {
